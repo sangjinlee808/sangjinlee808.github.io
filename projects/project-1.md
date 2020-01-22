@@ -13,7 +13,7 @@ labels:
 summary: The very first project that I have coded using Java during my ICS 111 class.
 ---
 
-<div class="ui small rounded images" src= "{{ site.baseurl }}/images/code-example.png">
+<div class="ui small rounded images" src= "/images/code-example.png">
 </div>
 
 This was the first project that I was assigned to during my time at ICS 111 where I had to come up with a code for a Library where I can check-out books, check-in books, display the title and author of the books, add a book, add a patron, and many more. This project was gruesome where it took me hours upon hours each day trying to figure out how do encoporate a bunch of codes to get the result that I wanted. Since it was a individual project and not a group project, there were many problems that I can across. I had to look online majority of the methods that I should use in order to fix the problems that I encountered while coding. While it took me manys hours trying to produce a significant result, it was also enjoyable since I got to learn many things.

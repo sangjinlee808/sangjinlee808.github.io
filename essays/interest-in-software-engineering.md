@@ -4,9 +4,9 @@ type: essay
 title: My interests in software development
 date: 2020-01-22
 labels:
-  -Software Engineering
-  -New Learing Experience
-  -Future Plans
+  - Software Engineering
+  - New Learing Experience
+  - Future Plans
 ---
 <img class="ui tiny left circular floated image" src="../images/software.png">
 

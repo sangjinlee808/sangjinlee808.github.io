@@ -1,25 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/
 title: Vacay
-permalink: projects/vacay
+permalink: projects/band
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-01-23
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - High school
+  - Leadership
+  - Music
+  - Community
+summary: In band during high school where I learned the skills of leadership, respect and got to meet different people from different age groups.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+So during all fours years of my high school bands I was enrolled in band class. During the freshman year it was concert band then later in my sophomore, junior, and senior year it was symphonic band. This was of course a music class but here I also got to learn the leadership skills and I have been taught to respect other people. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+My band teacher was very strict on respect as well on responsibility where she would never accept late works so we would always have to turn in assignments or paperwork on time. She would tells us to show respect towards others especially when they show respect towards us. So from this I became more responsible where I would turn in my assignments and paperwork on time and to respect others.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I also got to meet various of different people since my band class accepts people from different grade ranging from sphomores to seniors. We bonded over music and other interests and got along quite well. I gained some leadership skills during my senior year since I was the section leader of my section. I would try to help my section improve their muscial skills and try to arrange the time and place so that we could practice. 

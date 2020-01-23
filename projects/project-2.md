@@ -14,7 +14,7 @@ labels:
 summary: In band during high school where I learned the skills of leadership, respect and got to meet different people from different age groups.
 ---
 
-<img class="ui small rounded images" src="../images/band.png">
+<img class="ui medium rounded images" src="../images/band.png">
 
 So during all fours years of my high school bands I was enrolled in band class. During the freshman year it was concert band then later in my sophomore, junior, and senior year it was symphonic band. This was of course a music class but here I also got to learn the leadership skills and I have been taught to respect other people. 
 

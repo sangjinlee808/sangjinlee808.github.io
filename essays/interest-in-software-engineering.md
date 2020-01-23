@@ -17,7 +17,7 @@ my interest and once I started to code I enjoyed doing so.
 
 As I got into upper ICS class and ended up in software engineering, I felt nervous since I'm going to learn new things that I haven't 
 experienced yet. But I was also exicited as well. At first I wasn't as interested in software engineering since I only joined because it 
-was a requirement but then I came across a TV show on Netflix called["Person of Interest"] (https://www.imdb.com/title/tt1839578/). I was
+was a requirement but then I came across a TV show on Netflix called ["Person of Interest"](https://www.imdb.com/title/tt1839578/). I was
 intrigued that the person created a system where it would spy on everyone collecting information to prevent terrorism and he was a software
 developer.
 

@@ -22,4 +22,6 @@ While playing for the team, I also gained various of skills where one of them wo
 
 ## How does these skills help me later on?
 
+<img class="ui tiny left circular floated image" src="/images/teamwork.png">
+
 Well first of all these skills are important to me not just from the basketball perspective but also in any type of fields, like computer science. Putting many hours and effort on coding practice can help me gain more knowledge how coding and help me understand what I'm doing. Communication and teamwork in this field is also important where with teamwork, we can help one another and to efficiently take a step foward towards our goal. 

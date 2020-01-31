@@ -31,8 +31,7 @@ Now a what makes a bad question is when a person:
   <footer>-Eric Steven Raymond
 </blockquote>  
 
-Now an example of a bad question can be found here at [Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-
-kk-i-j-11.First of all, it seems that there are some missing details of the code since by the look of that code itself doesn't really 
+Now here is an exmaple of a bad question from [Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11). First of all, it seems that there are some missing details of the code since by the look of that code itself doesn't really 
 help the community the ability to answer the question. It just looks like the grammar of the code is misspelled which makes it harder to 
 answer. Now this would just be a waste of time, it's ineffective, and really doesn't help anybody at all.
 

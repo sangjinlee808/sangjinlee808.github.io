@@ -26,5 +26,5 @@ Now a what makes a bad question is when a person:
 > 1. post your question to a forum where it's off topic
 > 2. post a very elementary question to a forum where advanced technical questions are expected, or vice-versa
 > 3. cross-post to too many different newsgroups
-> 4.post a personal e-mail to somebody who is neither an acquaintance of yours nor personally responsible for solving your problem
-> - Eric Steven Raymonds
+> 4. post a personal e-mail to somebody who is neither an acquaintance of yours nor personally responsible for solving your problem
+

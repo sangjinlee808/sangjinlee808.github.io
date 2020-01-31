@@ -30,5 +30,6 @@ Now a what makes a bad question is when a person:
 <p>4. post a personal e-mail to somebody who is neither an acquaintance of yours nor personally responsible for solving your problem</p>
   <footer>-Eric Steven Raymond
 </blockquote>
-[Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)
+  
+Now an example of a bad question can be found here at [Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11)
 This person clearly has one idea what he/she is talking about since none of those operators would work.

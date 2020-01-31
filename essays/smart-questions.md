@@ -10,7 +10,7 @@ labels:
 
 ## What is a Smart Question?
 
-<"img class="ui tiny left circular floated imgage" src="/images/smart.png">
+<"img class="ui tiny left circular floated imgage" src="../images/smart.png">
 
 According to *Eric Steven Raymonds*, he a smart quesiton is when a person asks for question that is revelant to their topics which is in
 the field of coding and provides all the nescessary materials needed to solve the question which was posted. The question should also be 

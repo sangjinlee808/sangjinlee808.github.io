@@ -31,8 +31,15 @@ Now a what makes a bad question is when a person:
   <footer>-Eric Steven Raymond
 </blockquote>
   
-Now an example of a bad question can be found here at [Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-kk-i-j-11). First of all, it seems that there are some missing details of the code since by the look of that code itself doesn't really help the community the ability to answer the question. It just looks like the grammar of the code is misspelled which makes it harder to answer. Now this would just be a waste of time, it's ineffective, and really doesn't help anybody at all.
+Now an example of a bad question can be found here at [Stack Overflow](https://stackoverflow.com/questions/13519990/why-does-i-j-k-j-i-
+kk-i-j-11). First of all, it seems that there are some missing details of the code since by the look of that code itself doesn't really 
+help the community the ability to answer the question. It just looks like the grammar of the code is misspelled which makes it harder to 
+answer. Now this would just be a waste of time, it's ineffective, and really doesn't help anybody at all.
 
 ## Smart Question Equals Effectiveness
 
-Now it is very important to software engineers or any occupations that is related to the field of computer science to ask **Smart Question**. If you are stuck on a problem that you are having, asking someone else within the community can help you solve that problem. The only way to do that is to provide every single details about the problem, the code itself and explain what it does, and what you are trying to get. By doing this, the community can provide you with helpful answers that you can learn from and if a similiar problem occurs, then you know what to do. 
+Now it is very important to software engineers or any occupations that is related to the field of computer science to ask **Smart 
+Question**. If you are stuck on a problem that you are having, asking someone else within the community can help you solve that problem. 
+The only way to do that is to provide every single details about the problem, the code itself and explain what it does, and what you are 
+trying to get. By doing this, the community can provide you with helpful answers that you can learn from and if a similiar problem 
+occurs, then you know what to do. 

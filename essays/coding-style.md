@@ -6,7 +6,7 @@ title: Coding Style
 date: 2020-02-13
 labels:
   - Software Engineering
-  - LCoding Format
+  - Coding Format
   - Javascript
   - ESLint
 ---

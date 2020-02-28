@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui floated right image" src="/images/ui frameworks.jpeg">
+<img class="ui medium left circular floated image" src="/images/ui frameworks.jpeg">
 
 ## Why Should I Use Complicated UI Frameworks
 Well first of all using frameworks that are a bit more complicated than others means that in the end, you will produce a better product

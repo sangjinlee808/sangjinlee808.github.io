@@ -12,7 +12,7 @@ labels:
   - Teammwork
   - Meteor/React
 summary: Final project that me and my teammates worked on during the Covid-19 pandemic.
-
+---
 For this project, my primary job was to create a join club method where the users can either join the clubs that they desire or leave the
 club they wish to leave. There was also the "more info" button where when clicked, it will direct them to a page where it provides more 
 information and functions about the club they are interested in. There were many errors that I can arcoss but due to the help my

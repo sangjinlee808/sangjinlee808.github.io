@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/mhs.png
-title: Vacay
+title: Life skills from band
 permalink: projects/band
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23

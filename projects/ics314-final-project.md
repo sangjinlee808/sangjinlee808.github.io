@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/club-lounge.jpg
 title: Club Lounge
-permalink: projects/band
+permalink: projects/final-rpoject
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:

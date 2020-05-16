@@ -5,7 +5,7 @@ image: images/club-lounge.jpg
 title: Club Lounge
 permalink: projects/final-rpoject
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2020-5-14
 labels:
   - ICS 314 Final Project
   - Website Development

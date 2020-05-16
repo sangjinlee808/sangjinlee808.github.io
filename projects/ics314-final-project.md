@@ -20,7 +20,9 @@ teammates, I was able to learn and fix the problems that I had.
 <img class="floated image" src="/images/join-club.png">
 
 ## Working During Covid-19
+
 <img class="ui tiny left circular floated image" src="/images/covid.jpg">
+
 Due the worldwide spread of the disease of Covid-19, we had no choice but to work on our project at home. However, we did not have too much
 complications while working from home since we were able to use discord to discuss our project layout and was able to provide necessary
 information. The online meeting, Zoom, also sort of helped us with meeting with our professors and TA's for help.
